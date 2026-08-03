@@ -4,7 +4,7 @@
 
 ## The Work Today
 
-Hartwell Analytics has six regional sales teams. After a customer call, account executives turn notes into follow up emails, CRM updates and internal handover notes. Priya, Commercial Director, says the quality varies and some follow ups go out late.
+Hartwell Analytics has six regional sales teams. After a customer call, account executives turn notes into follow up emails, CRM updates and internal handover notes. Elena Kowalski, Commercial Director, says the quality varies and some follow ups go out late.
 
 The group did not claim a precise number of hours lost. It agreed that the first evidence should come from a small sample of recent calls.
 
@@ -32,7 +32,7 @@ The first measure is time taken to complete the work for a sample of calls. The 
 | Information | Approved call notes only, with sensitive information removed |
 | Output | Follow up draft, action list and proposed CRM update |
 | Human check | The account executive checks every output before use |
-| Review | Priya and one sales manager compare time, quality and practicality after the sample |
+| Review | Elena and one sales manager compare time, quality and practicality after the sample |
 
 ## Decision
 
