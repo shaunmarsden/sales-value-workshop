@@ -2,7 +2,6 @@
 
 ## Next Cases
 
-- A mid market customer with a clear operational pain but no agreed owner
 - An enterprise customer where security and procurement are the main gates
 - An existing customer trying to improve a process without buying a new tool
 
@@ -19,3 +18,8 @@
 - Industry specific routes
 
 The point is to improve the workshop when real use exposes a need, not to add features because they sound impressive.
+
+## Built So Far
+
+- A first case reaching an agreed test, with a genuine measure and no invented saving
+- A mid market case with no agreed owner, correctly ending in "not yet" rather than manufacturing a test

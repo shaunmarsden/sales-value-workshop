@@ -14,6 +14,7 @@ It is for salespeople, solutions consultants and commercial leaders who need to 
 | --- | --- |
 | Run a first value conversation | [Run a First Workshop](guides/run-a-first-workshop.md) |
 | See what a finished fictional workshop looks like | [Hartwell Workshop Output](examples/hartwell-value-workshop-output.md) |
+| See a workshop that correctly ends in "not yet" | [Vantree Workshop Output](examples/vantree-value-workshop-output.md) |
 | Capture the conversation in one place | [Value Workshop Canvas](templates/value-workshop-canvas.md) |
 | Check whether the evidence is strong enough | [Value Evidence Check](methods/value-evidence-check.md) |
 
