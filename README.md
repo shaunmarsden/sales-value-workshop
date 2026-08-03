@@ -2,7 +2,7 @@
 
 AI conversations get vague quickly.
 
-This is a practical workshop kit for turning “we should use more AI” into a clearer problem, a sensible measure of value and a first test worth running.
+This is a practical workshop kit for turning "we should use more AI" into a clearer problem, a sensible measure of value and a first test worth running.
 
 It is for salespeople, solutions consultants and commercial leaders who need to have a useful customer conversation before making a recommendation.
 

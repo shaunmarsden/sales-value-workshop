@@ -7,7 +7,7 @@ Use this before calling a workshop useful or turning its output into a business 
 | Problem | The customer described a specific piece of work | The problem is only a broad interest in AI |
 | Ownership | Someone close to the work is involved | Nobody can explain who does the work today |
 | Baseline | A measure exists or a credible way to gather one is agreed | A saving is claimed without current evidence |
-| Better | The customer has described what improvement means | Better is only “more efficient” or “more innovative” |
+| Better | The customer has described what improvement means | Better is only "more efficient" or "more innovative" |
 | Test | The first step is small, safe and reviewable | The first step needs a large rollout or automatic changes |
 | Decision | A human owns the next action | The notes assume approval, budget or commitment |
 
