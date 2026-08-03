@@ -1,10 +1,10 @@
-# Northstar Value Workshop Output
+# Hartwell Value Workshop Output
 
-> This is a fictional example. Northstar, the people and the figures are invented.
+> This is a fictional example. Hartwell, the people and the figures are invented.
 
 ## The Work Today
 
-Northstar Facilities Group has six regional sales teams. After a customer call, account executives turn notes into follow up emails, CRM updates and internal handover notes. Priya, Commercial Director, says the quality varies and some follow ups go out late.
+Hartwell Analytics has six regional sales teams. After a customer call, account executives turn notes into follow up emails, CRM updates and internal handover notes. Priya, Commercial Director, says the quality varies and some follow ups go out late.
 
 The group did not claim a precise number of hours lost. It agreed that the first evidence should come from a small sample of recent calls.
 
@@ -16,7 +16,7 @@ The group did not claim a precise number of hours lost. It agreed that the first
 
 ## Better Looks Like
 
-Northstar said a useful improvement would mean:
+Hartwell said a useful improvement would mean:
 
 1. a salesperson can prepare a first draft of the follow up and CRM update from approved call notes;
 2. the salesperson remains responsible for checking and sending it; and
@@ -36,7 +36,7 @@ The first measure is time taken to complete the work for a sample of calls. The 
 
 ## Decision
 
-Northstar agreed to prepare the ten call sample and confirm which tool is approved for the test. It did not agree to buy software, change the CRM or roll the method out.
+Hartwell agreed to prepare the ten call sample and confirm which tool is approved for the test. It did not agree to buy software, change the CRM or roll the method out.
 
 ## What Remains Unknown
 
