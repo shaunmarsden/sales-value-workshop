@@ -27,6 +27,8 @@ It is for salespeople, solutions consultants and commercial leaders who need to 
 | Test | What is the smallest safe change worth trying? |
 | Review | What would tell us to continue, stop or change direction? |
 
+[![Five steps in a sales value workshop](assets/diagrams/28-sales-value-workshop.svg)](guides/run-a-first-workshop.md)
+
 ## What You Will Leave With
 
 - A customer owned problem statement
