@@ -53,3 +53,11 @@ This is a foundation project. The first case and tools are fictional, so they de
 ## Next
 
 See the [roadmap](ROADMAP.md) for the next cases this project could add.
+
+## Feedback
+
+Tried this? [Share feedback in the short form](https://github.com/shaunmarsden/sales-value-workshop/issues/new?template=feedback.yml) if something helped, felt unclear, or you would like to see next. See [what the form asks](feedback/README.md) before you start.
+
+## Part of a Family
+
+This is one of four free tools for commercial teams experimenting with AI. **Sales Value Workshop** turns a vague ambition into a real first test; [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams) is the starting point for adopting AI as a team; [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym) practises the conversations themselves; [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether an AI tool actually helps with a task.
