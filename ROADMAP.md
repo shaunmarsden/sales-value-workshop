@@ -2,7 +2,6 @@
 
 ## Next Cases
 
-- An enterprise customer where security and procurement are the main gates
 - An existing customer trying to improve a process without buying a new tool
 
 ## Next Tools
@@ -23,3 +22,4 @@ The point is to improve the workshop when real use exposes a need, not to add fe
 
 - A first case reaching an agreed test, with a genuine measure and no invented saving
 - A mid market case with no agreed owner, correctly ending in "not yet" rather than manufacturing a test
+- An enterprise case with a clear owner, problem and measure, correctly ending in "not yet" for a different reason: an unstarted security and procurement approval, not missing evidence
