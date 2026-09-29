@@ -1,12 +1,12 @@
 # Run a First Workshop
 
-You do not need a large room, a slide deck or a finished solution. One useful conversation is enough to establish whether there is a problem worth exploring.
+You don't need a big room, a slide deck or a finished solution. One useful conversation is enough to find out whether there's a problem worth exploring.
 
 ## Before the Conversation
 
-Bring one concrete area of work, not "AI transformation" as a whole. Ask the customer to bring the people who understand the work and the people who would judge whether a change helped.
+Bring one specific area of work, not "AI transformation" as a whole. Ask the customer to bring the people who understand the work and the people who would judge whether a change helped.
 
-Make the boundary clear:
+Say clearly what the conversation is for:
 
 > We are here to understand one piece of work and decide whether a small test is useful. We are not here to agree a technology purchase.
 
@@ -19,7 +19,7 @@ Ask:
 3. Who feels that problem and who owns it?
 4. What evidence would show that the problem is real?
 
-Write down the exact examples people give. Do not turn "it is a pain" into a claim about hours or money without checking.
+Write down the exact examples people give. Don't turn "it is a pain" into a claim about hours or money without checking.
 
 ## Define Better
 
@@ -55,4 +55,4 @@ Read back:
 - who owns each action; and
 - what you will review next.
 
-If the evidence does not support a test, say so. A useful workshop can end with "not yet".
+If the evidence doesn't support a test, say so. A useful workshop can end with "not yet".

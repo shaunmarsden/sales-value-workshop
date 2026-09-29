@@ -1,6 +1,6 @@
 # Feedback
 
-You do not need to write a detailed review. A quick "this question got us unstuck" or "the canvas felt too corporate" is genuinely useful.
+You don't need to write a detailed review. A quick "this question got us unstuck" or "the canvas felt too corporate" helps.
 
 ## The Easy Option
 
@@ -23,6 +23,6 @@ That is enough to improve the next version.
 
 ## Keep It Safe
 
-Do not add customer, employer, confidential or personal information to a public issue. Describe the type of conversation and the point where you got stuck instead.
+Don't put customer, employer, confidential or personal information in a public issue. Describe the kind of conversation and where you got stuck instead.
 
-If you are adapting this inside your own organisation, use the feedback route your organisation has approved.
+If you're adapting this inside your own organisation, use the feedback route your organisation has approved.
