@@ -2,11 +2,11 @@
 
 AI conversations get vague quickly.
 
-This is a practical workshop kit for turning "we should use more AI" into a clearer problem, a sensible measure of value and a first test worth running.
+This is a workshop kit for turning "we should use more AI" into a clearer problem, a sensible way to measure value and a first test worth running.
 
-It is for salespeople, solutions consultants and commercial leaders who need to have a useful customer conversation before making a recommendation.
+It's for salespeople, solutions consultants and commercial leaders who need a useful conversation with a customer before they recommend anything.
 
-> The aim is not to prove that AI is good. The aim is to work out whether one specific change would be useful enough to test.
+> The aim isn't to prove that AI is good. It's to work out whether one specific change is useful enough to test.
 
 ## Start Here
 
@@ -33,7 +33,7 @@ It is for salespeople, solutions consultants and commercial leaders who need to 
 
 ## What You Will Leave With
 
-- A customer owned problem statement
+- A problem statement the customer owns
 - A clear list of what is known, assumed and still unknown
 - One or two useful measures, not a made up return on investment number
 - A first test with a human owner
@@ -41,25 +41,25 @@ It is for salespeople, solutions consultants and commercial leaders who need to 
 
 ## What This Does Not Do
 
-- It does not decide that a customer has a budget or a project
-- It does not promise a saving before a baseline exists
-- It does not turn a workshop into a disguised product pitch
-- It does not make product, pricing, security or procurement decisions
+- It doesn't decide that a customer has a budget or a project
+- It doesn't promise a saving before there's a baseline to measure against
+- It doesn't turn a workshop into a product pitch in disguise
+- It doesn't make product, pricing, security or procurement decisions
 
-Every example is fictional. The participant keeps control of the judgement and any next step.
+Every example is fictional. The people taking part keep control of the judgement and any next step.
 
 ## Current Status
 
-This is a foundation project. The first case and tools are fictional, so they demonstrate the method rather than proving commercial impact. Real learning belongs in an anonymised findings log only when it is safe to share.
+This is an early project. The first case and tools are fictional, so they show the method but don't prove it pays off commercially. Real lessons go in an anonymised findings log, and only once they're safe to share.
 
 ## Next
 
-See the [roadmap](ROADMAP.md) for the next cases this project could add.
+The [roadmap](ROADMAP.md) lists the next cases I could add.
 
 ## Feedback
 
-Tried this? [Share feedback in the short form](https://github.com/shaunmarsden/sales-value-workshop/issues/new?template=feedback.yml) if something helped, felt unclear, or you would like to see next. See [what the form asks](feedback/README.md) before you start.
+Tried this? [Share feedback in the short form](https://github.com/shaunmarsden/sales-value-workshop/issues/new?template=feedback.yml) if something helped or felt unclear, or to say what you'd like to see next. See [what the form asks](feedback/README.md) before you start.
 
 ## Part of a Family
 
-Four free tools for commercial teams experimenting with AI, all generalising patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows). New to all four? Start with [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams), the entry point for team-wide adoption. This one turns a vague idea into a first test; [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether a tool actually helps with a task, and [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym) practises the conversations themselves.
+These are four free tools for commercial teams trying out AI. All four take patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows). New to all four? Start with [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams), the starting point for a whole team taking up AI. This one turns a vague idea into a first test. [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether a tool helps with a task. [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym) is for practising the conversations themselves.

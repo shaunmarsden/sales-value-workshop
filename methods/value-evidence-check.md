@@ -1,6 +1,6 @@
 # Value Evidence Check
 
-Use this before calling a workshop useful or turning its output into a business case.
+Use this before you call a workshop useful or turn its output into a business case.
 
 | Check | Good sign | Stop and check |
 | --- | --- | --- |
@@ -13,11 +13,11 @@ Use this before calling a workshop useful or turning its output into a business 
 
 ## A Useful Minimum
 
-A workshop does not need a perfect number. It does need:
+A workshop doesn't need a perfect number. It does need:
 
 - a specific problem;
 - an owner who recognises it;
 - a sensible way to tell whether a change helped; and
-- a next step that has actually been agreed.
+- a next step that's been agreed.
 
-If any of those are missing, record the gap. Do not fill it with a confident sounding assumption.
+If any of those are missing, note the gap. Don't fill it with an assumption that sounds confident.
