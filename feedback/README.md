@@ -6,12 +6,13 @@ You don't need to write a detailed review. A quick "this question got us unstuck
 
 [Share feedback in the short form](https://github.com/shaunmarsden/sales-value-workshop/issues/new?template=feedback.yml).
 
-It asks four things:
+It asks five things, the last one optional:
 
 1. what you were trying to do;
 2. what was useful;
-3. where you got stuck; and
-4. whether the likely result felt worth the effort.
+3. where you got stuck;
+4. whether the likely result felt worth the effort; and
+5. what would make it more useful next time.
 
 ## If You Are Not Ready To Try It Yet
 

@@ -36,7 +36,7 @@ It's for salespeople, solutions consultants and commercial leaders who need a us
 - A problem statement the customer owns
 - A clear list of what is known, assumed and still unknown
 - One or two useful measures, not a made up return on investment number
-- A first test with a human owner
+- A first test with a human owner, if the evidence supports one
 - A decision on what happens next
 
 ## What This Does Not Do
@@ -50,7 +50,7 @@ Every example is fictional. The people taking part keep control of the judgement
 
 ## Current Status
 
-This is an early project. The first case and tools are fictional, so they show the method but don't prove it pays off commercially. Real lessons go in an anonymised findings log, and only once they're safe to share.
+This is an early project. The cases and tools are fictional, so they show the method but don't prove it pays off commercially. Real lessons go in an anonymised findings log, and only once they're safe to share.
 
 ## Next
 
