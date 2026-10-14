@@ -26,7 +26,13 @@ The proposed measure was time spent drafting a sample of letters, compared befor
 
 ## First Test
 
-Not proposed. Wrenfield's claims correspondence and policy documents are classified as sensitive customer data under its own information security policy. Using any AI tool against that data, even for a small sample, requires sign-off from Information Security and a review through Wrenfield's approved-vendor process in Procurement. Neither had started. Proposing a test now would assume an approval that does not exist, which the [Value Evidence Check](../methods/value-evidence-check.md)'s Decision row rules out directly.
+Not proposed, for three reasons:
+
+- Wrenfield's claims correspondence and policy documents are classified as sensitive customer data under its own information security policy.
+- Using any AI tool against that data, even for a small sample, requires sign-off from Information Security and a review through Wrenfield's approved-vendor process in Procurement.
+- Neither had started.
+
+Proposing a test now would assume an approval that does not exist, which the [Value Evidence Check](../methods/value-evidence-check.md)'s Decision row rules out directly.
 
 ## Decision
 

@@ -7,7 +7,7 @@
 
 ## Next Tools
 
-- A one page printable canvas
+- A printable one page version of the [canvas](templates/value-workshop-canvas.md)
 - A facilitator note for difficult value conversations
 - A simple anonymised format for findings
 
