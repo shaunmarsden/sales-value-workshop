@@ -50,7 +50,7 @@ Every example is fictional. The people taking part keep control of the judgement
 
 ## Current Status
 
-This is an early project. The cases and tools are fictional, so they show the method but don't prove it pays off commercially. Real lessons go in an anonymised findings log, and only once they're safe to share.
+This is an early project. The cases and tools are fictional, so they show the method but don't prove it pays off commercially. Real lessons will go in an anonymised findings log, and only once they're safe to share. I haven't built that format yet.
 
 ## Next
 
