@@ -1,6 +1,6 @@
 # Calderwick Value Workshop Output
 
-> This is a fictional example. Calderwick, the people and the figures are invented. I wrote it to show the method with an existing customer. It isn't a logged run.
+> This is a fictional example. Calderwick, the people and the figures are invented. I wrote it to show the method with an existing customer. It isn't a logged run. I later ran the method on a similar customer, and [the findings](../evaluations/calderwick-method-test.md) are on their own page.
 
 ## The Work Today
 
