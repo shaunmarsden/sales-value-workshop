@@ -4,7 +4,7 @@
 
 ## The Work Today
 
-Wrenfield Insurance Group is a large commercial insurer. After a claims call, claims handlers draft a summary letter to the policyholder and update the claims system with a coverage decision and next steps. Priya Ahluwalia, Head of Claims Operations, says handlers spend a significant part of each day on this drafting, and new handlers take months to write letters that pass a compliance review first time.
+Wrenfield Insurance Group is a large commercial insurer. After a claims call, claims handlers draft a summary letter to the policyholder and update the claims system with a coverage decision and next steps. Ottoline Fenn, Head of Claims Operations, says handlers spend a significant part of each day on this drafting, and new handlers take months to write letters that pass a compliance review first time.
 
 The group agreed the problem is real and specific. It did not agree on how large the effect is, since no one had measured drafting time separately from the rest of a handler's day.
 

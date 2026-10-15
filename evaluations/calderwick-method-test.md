@@ -15,8 +15,8 @@ Attendees: Jo Whitcombe (Regional Clinical Manager), two vets (Sam and Ana), and
 - Jo says letters sometimes go out days late. Specialists have complained "twice this year, I think".
 - Tarrant uses our tool now for emails and meeting summaries. About half the seats are used regularly. That is Jo's guess and I haven't checked the usage data.
 - What better looks like, from Jo: a vet gets a decent first draft of a letter from their consult notes, the vet checks and corrects it every time, and letters go out within two working days. Sam: "I'd still want to write the clinical bit myself." Ana is worried the letters will "all sound the same".
-- Data: Tarrant's data protection lead, Priya, approved our tool for emails and internal summaries only. Consult notes hold client names, pet details and sometimes payment or health information about the owner. Jo: "I don't know if that's covered."
-- Budget: Jo says "Priya at head office told me there's money for more seats this year". I haven't heard that from Priya.
+- Data: Tarrant's data protection lead, Winifred, approved our tool for emails and internal summaries only. Consult notes hold client names, pet details and sometimes payment or health information about the owner. Jo: "I don't know if that's covered."
+- Budget: Jo says "Winifred at head office told me there's money for more seats this year". I haven't heard that from Winifred.
 - I mentioned our clinical documentation add-on. Jo: "maybe later, let's see if what we've got helps first."
 - I haven't checked whether our tool handles referral letter layouts.
 - Jo owns clinical standards across the 14 practices. She would own any test.
@@ -41,7 +41,7 @@ I'd count the Calderwick ending as reached by a run if measures 1, 2 and 5 all p
 
 ## Method
 
-Twelve runs on 15 October 2026 in fresh conversations, on settings that report themselves as `claude-opus-5-5` and `claude-haiku-5-5`. Both names are self-reported. Each run read its input from a file and wrote its reply to another. I scored by reading and could usually tell which setup a reply came from.
+Twelve runs on 15 October 2026 in fresh conversations, on settings that report themselves as `claude-opus-5-5` and `claude-haiku-5-5`. Both names are self-reported. Each run read its input from a file and wrote its reply to another. I scored by reading and could usually tell which setup a reply came from. After the runs I gave the data protection lead in the notes a different first name, and nothing else in the notes changed.
 
 ## Result
 
