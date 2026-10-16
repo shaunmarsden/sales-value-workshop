@@ -51,7 +51,7 @@ Every example is fictional. The people taking part keep control of the judgement
 
 ## Current Status
 
-This is an early project. The cases and tools are fictional, so they show the method but don't prove it pays off commercially. I've run the method once on a new fictional customer, in [twelve runs](evaluations/calderwick-method-test.md), and it did no better than just asking. Real lessons will go in an anonymised findings log, and only once they're safe to share. I haven't built that format yet.
+This is an early project. The cases and tools are fictional, so they show the method but don't prove it pays off commercially. I've run the method once on a new fictional customer, in [twelve runs](evaluations/calderwick-method-test.md), and it did no better than just asking. I then [tested two added bullets](evaluations/first-test-wording-test.md) for the guide's first-test list on a second customer. The first one worked and the second only partly, so I haven't changed the guide. Real lessons will go in an anonymised findings log, and only once they're safe to share. I haven't built that format yet.
 
 ## Next
 
