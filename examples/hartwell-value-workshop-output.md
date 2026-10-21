@@ -4,7 +4,7 @@
 
 ## The Work Today
 
-Hartwell Analytics has six regional sales teams. After a customer call, account executives turn notes into follow up emails, CRM updates and internal handover notes. Elena Kowalski, Commercial Director, says the quality varies and some follow ups go out late.
+Hartwell Analytics has six regional sales teams. After a customer call, account executives turn notes into follow up emails, CRM updates and internal handover notes. Elena Marchetti, Commercial Director, says the quality varies and some follow ups go out late.
 
 The group did not claim a precise number of hours lost. It agreed that the first evidence should come from a small sample of recent calls.
 
