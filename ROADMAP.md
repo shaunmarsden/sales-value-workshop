@@ -6,7 +6,6 @@
 
 ## Next Tools
 
-- A printable one page version of the [canvas](templates/value-workshop-canvas.md)
 - A facilitator note for difficult value conversations
 - A simple anonymised format for findings
 
@@ -20,6 +19,7 @@ I want to improve the workshop when real use shows a need, not add features beca
 
 ## Built So Far
 
+- A [printable version of the canvas](templates/value-workshop-canvas-print.md), with a notes column to write in
 - A first case that reaches an agreed test, with a real measure and no invented saving
 - A mid market case with no agreed owner, which correctly ends in "not yet" rather than making up a test
 - An enterprise case with a clear owner, problem and measure. It correctly ends in "not yet" for a different reason: the security and procurement approval hasn't started, rather than evidence being missing. On 5 August 2026 I tested the method itself, not just this write-up, on a new scenario with the same gate. The gate came up because the guide's own test rule says "approved information only", not because of any extra digging the guide doesn't ask for. This was one internal test, not independent evidence
