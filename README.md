@@ -17,7 +17,7 @@ It's for salespeople, solutions consultants and commercial leaders who need a us
 | See a workshop that correctly ends in "not yet" because no one owns the process | [Vantree Workshop Output](examples/vantree-value-workshop-output.md) |
 | See a workshop that correctly ends in "not yet" because of a security and procurement gate | [Wrenfield Workshop Output](examples/wrenfield-value-workshop-output.md) |
 | See a workshop with an existing customer, where the first test needs nothing new to buy | [Calderwick Workshop Output](examples/calderwick-value-workshop-output.md) |
-| Capture the conversation in one place | [Value Workshop Canvas](templates/value-workshop-canvas.md) |
+| Capture the conversation in one place | [Value Workshop Canvas](templates/value-workshop-canvas.md), or the [printable version](templates/value-workshop-canvas-print.md) with space to write |
 | Check whether the evidence is strong enough | [Value Evidence Check](methods/value-evidence-check.md) |
 
 ## The Five Parts
